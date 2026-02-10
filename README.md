@@ -1,5 +1,7 @@
 🧩 Skeleton Loader Task 
+
 JUST DO THIS FIRST (Don’t Read Below Yet)
+
 1️⃣ Work ONLY on these files (in this order)
 🟢 Batch 1 (Start here)
 
